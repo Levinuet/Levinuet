@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Levinuet
-- 👀 I’m interested in learning new code - I am a 28+ year old student from Denmark, where I studie IT-Architecture at EAA
-- 🌱 I’m currently learning HTML, CSS, JS, D3
-- 📫 How to reach me code better in D3 and JS
+- 👀 I’m interested in learning new code - I am a 30+ year old student from Denmark, where I studie IT-Architecture at EAA
+- 🌱 I’m currently learning Docker, how to Containerize Apps
+- 📖I've learned Azure Cloud Service, C#, HTML, CSS, JS, D3
